@@ -1,2 +1,2 @@
 # ini adalah branch baru untuk latihan membuat branch di GitHub
-**MAIN**
+belajar dicoding asik lho
